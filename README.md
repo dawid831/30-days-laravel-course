@@ -1,3 +1,20 @@
+This project is a learning exercise based on the [30 Days to Learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11) course by Laracasts.
+
+The repository serves as my personal notes and practice space while studying Laravel.  
+The majority of the code follows the examples from the course — I rewrote it manually to better understand the concepts and workflow.  
+Only small adjustments or experiments reflect my own input.
+
+> I believe that re-implementing the material yourself is one of the best ways to truly learn it.
+
+Main takeaways:
+- deepened understanding of routing
+- first experience with tailwind
+- first-hand experience of creating a well-though application from the basics
+- another approach to SQLite database
+- ways of validation and authentication + csrf
+
+Another part of the file is automatically generated Laravel readme content.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
